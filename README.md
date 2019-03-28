@@ -1,2 +1,4 @@
 # hello-world
-first time using github
+This is my first time using github
+
+I hope this is the start of long lasting relationship
